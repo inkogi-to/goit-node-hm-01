@@ -1,0 +1,27 @@
+{
+  "name": "goit-node-hm-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkogi-to/goit-node-hm-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkogi-to/goit-node-hm-01/issues"
+  },
+  "homepage": "https://github.com/inkogi-to/goit-node-hm-01#readme",
+  "devDependencies": {
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.22"
+  }
+}
